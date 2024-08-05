@@ -28,6 +28,7 @@ import CustomTape from "./user/pages/CustomTape";
 import RelatedProducts from "./user/pages/RelatedProducts";
 
 
+
 const Auth = React.lazy(() => import("./user/pages/Auth"));
 const NewPlace = React.lazy(() => import("./places/pages/NewPlace"));
 const UserPlaces = React.lazy(() => import("./places/pages/UserPlaces"));
