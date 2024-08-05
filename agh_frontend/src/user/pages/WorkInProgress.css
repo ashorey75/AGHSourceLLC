@@ -1,0 +1,25 @@
+.fa-cloud-moon {
+  text-align: center;
+  margin-top: 10%;
+  font-size: 400%;
+  color: rgb(147, 151, 151);
+}
+
+.fa-cloud-moon h4 {
+  font-size: 50%;
+  margin-bottom: auto;
+}
+
+.return {
+  color: rgb(147, 151, 151);
+  font-size: large;
+  text-decoration: none;
+}
+.return:hover {
+  color: rgb(8, 8, 153);
+}
+.wip-container {
+  display:flex ;
+  justify-content: center;
+  width: 100%;
+}

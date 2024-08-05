@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Metal Zippers",
+      "description": "AGH has developed a wide variety of “Jewelry Like” and \"High Polished\" finishes for our metal zipper line. Along with our Brass, Nickel, Antique Brass, Antique Nickel, Dark Nickel and Black Oxide finishes, we have developed both a Copper and Antique Copper surface effect. The newest additions to our line are the Golden and Platinum enhanced metal finish. All metal zippers are available in #3, #5, #8 and #10 gauges allowing complete flexibility in your product development as well as seamless integration with our standard and customized pull/slider collection.",
+      "image": "/EXCELLA_m.jpg",
+      "category": "zippers"
+    },
+    {
+      "id": "2",
+      "title": "Plastic Zippers",
+      "description": "Plastic Zippers are available in all gauges and configurations from coil to molded plastic; clear synthetic resin to gold or platinum mirror finish; multicolored individual teeth to metallic looking “sputtering” coil. Mixing and matching the three integral parts of the “ZIPPER TRIAD” – Slider / Element / Tape – offers the designer an expanded capacity for individual customization.",
+      "image": "/VISLONStandard_m.jpg",
+      "category": "zippers"
+    },
+    {
+      "id": "3",
+      "title": "Custom Sliders",
+      "description": "A zipper is a little machine. It is usually the only part of a garment that has moving parts. The slider assembly is the “train” that runs on the tracks, in some instances, many times a day. Some sliders may have more than seven separate parts. Quality tooling and engineered compatibility are essential to proper functioning and durability. We offer customization services that enable you to utilize the zipper pull as a sales tool – communicating your company’s name or logo - as well as promoting your fashion sense. We keep an extensive collection of decorative zipper pulls geared for all fashion markets. AGH is one of the few companies to offer over 50 different metallic finishes that will give your zipper pull and slider bodies a distinctive coordinated appearance. Our AGH Design Services will transform your concept into reality within a matter of weeks.",
+      "image": "/sliders1.jpg",
+      "category": "sliders"
+    },
+    {
+      "id": "4",
+      "title": "Custom Tape",
+      "description": "Zipper tape is the third component of the “ZIPPER TRIAD” (Slider/Element/Tape). Customized tape configurations are available to further compliment your design concept which helps to set your garment apart from others in the marketplace. Whether it’s contrasting color teeth, embroidered design or creative use of textured thread, AGH Design Services can help “singularize” your garments fastener appearance maximizing sales and identification.",
+      "image": "/custom_tape.jpg",
+      "category": "tape"
+    },
+    {
+      "id": "5",
+      "title": "Ribbon",
+      "description": "“HUG SNUG ½” SEAM BINDING” is available in 200 colors and ¼” DRESS RIBBON in 21 colors. All are in stock at our New York Garment Center warehouse. This versatile product is 100% washable and dry cleanable rayon with a woven edge and is put-up 100 yards to a roll. Dye to match color capabilities exist both in Asia and the U.S.",
+      "image": "/ribbon.jpg",
+      "category": "other"
+    },
+    {
+      "id": "6",
+      "title": "Boning",
+      "description": "Boning is used in bustiers and strapless garments for support in the bust or torso. Bone Soir™  is an innovative boning material that allows for efficient sew-through processing, reducing time and cost of application. Both black and white are stocked in widths of 1/4”, 5/16” and 7/16”. Covered boning is also available in black and white and stocked for immediate delivery. Fused boning in black and white is a special order based on one week delivery.",
+      "image": "/underwire.png",
+      "category": "other"
+    },
+    {
+      "id": "7",
+      "title": "Thread",
+      "description": "AGH carries a full line of sewing thread for all applications and industries. From cotton and polyester to silk and metallic, our LEADER THREAD Division represents years of experience in helping to determine the best product for your purpose.",
+      "image": "/thread.jpg",
+      "category": "other"
+    },
+    {
+      "id": "8",
+      "title": "Lingerie & Swimwear Accessories",
+      "description": "AGH Trimsource has years of experience in the design and production of “Customized Metal Accessories”. These products are manufactured of the finest available materials and created to function within the rigorous guidelines established for these industries. AGH Design Services are available to aid in the selection of the best product for any given application.",
+      "image": "/accessories.png",
+      "category": "other"
+    }
+  ]
+}

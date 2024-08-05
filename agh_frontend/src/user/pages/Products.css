@@ -1,0 +1,43 @@
+
+.zipper-container img {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+
+.zipper-text {
+  padding: 2rem;
+  text-align: justify;
+  font-family: 'Kaisei Decol';
+  color: rgb(114, 114, 114);
+}
+
+.zipper-text h2 {
+  color: rgba(185, 113, 113)
+}
+
+
+
+@media (min-width: 930px) {
+  .zipper-container {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  .zipper-container img {
+    margin-left: 2rem;
+    padding: .5rem;
+    max-width: 300px;
+  }
+  
+  .zipper-element {
+    display: inline-block;
+    max-width: 100%;
+  }
+  
+  .zipper-text {
+    padding: 2rem 8rem;
+    
+  }
+}
