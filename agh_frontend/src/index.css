@@ -18,6 +18,11 @@ body {
   width: 100%;
 }
 
+::selection {
+  background: rgb(210, 128, 128);
+  color: white;
+}
+
 .slide-in-left-enter {
   transform: translateX(-100%);
 }

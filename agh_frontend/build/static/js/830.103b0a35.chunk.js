@@ -1,1 +1,0 @@
-(self.webpackChunkagh_frontend=self.webpackChunkagh_frontend||[]).push([[830],{830:()=>{}}]);

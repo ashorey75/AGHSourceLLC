@@ -1,10 +1,11 @@
 import React, { Fragment } from 'react';
 import './Products.css'
+import Card from '../../shared/components/UIElements/Card';
 
 function RelatedProducts() {
   return (
     <Fragment>
-    <div className='zipper-container'>
+    <Card className='zipper-container'>
       <div className='zipper-element'>
         <img src="/ribbon.jpg" alt="st sign"/>
       </div>
@@ -15,9 +16,8 @@ function RelatedProducts() {
           This versatile product is 100% washable and dry cleanable rayon with a woven edge and is put-up 100 yards to a roll.  
           Dye to match color capabilities exist both in Asia and the U.S.</p>
       </div>
-    </div>
-      <hr></hr>
-      <div className='zipper-container'>
+    </Card>
+      <Card className='zipper-container'>
       <div className='zipper-element'>
         <img src="/underwire.png" alt="st sign"/>
       </div>
@@ -29,20 +29,18 @@ function RelatedProducts() {
           Covered boning is also available in black and white and stocked for immediate delivery.  
           Fused boning in black and white is a special order based on one week delivery.</p>
       </div>
-    </div>
-    <hr></hr>
-      <div className='zipper-container'>
+    </Card>
+      <Card className='zipper-container'>
       <div className='zipper-element'>
-        <img src="/fashion_ave.jpg" alt="st sign"/>
+        <img src="/thread.jpg" alt="st sign"/>
       </div>
       <div className='zipper-text'>
         <h2>Thread</h2>
         <p>AGH carries a full line of sewing thread for all applications and industries. 
           From cotton and polyester to silk and metallic, our LEADER THREAD Division represents years of experience in helping to determine the best product for your purpose.</p>
       </div>
-    </div>
-    <hr></hr>
-    <div className='zipper-container'>
+    </Card>
+    <Card className='zipper-container'>
       <div className='zipper-element'>
         <img src="/accessories.png" alt="st sign"/>
       </div>
@@ -52,7 +50,7 @@ function RelatedProducts() {
           These products are manufactured of the finest available materials and created to function within the rigorous guidelines established for these industries.  
           AGH Design Services are available to aid in the selection of the best product for any given application.</p>
       </div>
-    </div>
+    </Card>
     </Fragment>
   )
 }

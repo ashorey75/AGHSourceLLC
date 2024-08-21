@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react';
 import './Products.css'
 import Card from '../../shared/components/UIElements/Card';
+import Button from '../../shared/components/FormElements/Button';
 
 function Zipper() {
   return (

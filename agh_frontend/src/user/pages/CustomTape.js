@@ -1,9 +1,10 @@
 import React from 'react';
 import './Products.css'
+import Card from '../../shared/components/UIElements/Card';
 
 function CustomTape() {
   return (
-    <div className='zipper-container'>
+    <Card className='zipper-container'>
       <div className='zipper-element'>
         <img src="/custom_tape.jpg" alt="st sign"/>
       </div>
@@ -13,7 +14,7 @@ function CustomTape() {
            Customized tape configurations are available to further compliment your design concept which helps to set your garment apart from others in the marketplace.  
           Whether it’s contrasting color teeth, embroidered design or creative use of textured thread, AGH Design Services can help “singularize” your garments fastener appearance maximizing sales and identification.</p>
       </div>
-    </div>
+    </Card>
   )
 }
 

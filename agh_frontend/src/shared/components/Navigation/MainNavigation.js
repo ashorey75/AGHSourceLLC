@@ -32,7 +32,6 @@ const MainNavigation = props => {
 
         <h1 className='main-navigation__title'>
         <Link to='/home'><h2>AGH</h2></Link>
-          {/*<Link to='/'>Matchbook Collector</Link> I could use a matchbook Collector text logo */}
         </h1>
         
       

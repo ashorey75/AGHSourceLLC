@@ -15,20 +15,24 @@
 }
 
 .nav-links a {
+  display: inline-block;
   border: 1px solid transparent;
   color: rgb(185, 113, 113);
   text-decoration: none;
   padding: 0.5rem;
+  transition: transform 0.3s ease, color 0.3s ease;
 }
 
 .nav-links a:hover,
 .nav-links a:active,
 .nav-links a.active {
   background: #B97171;
+  transform: scale(1.1);
   border-radius: 6px;
   color: rgb(241, 241, 239);
   
 }
+
 
 .nav-links button {
   cursor: pointer;

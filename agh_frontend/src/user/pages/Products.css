@@ -1,9 +1,11 @@
 
 .zipper-container img {
   max-width: 100%;
+  height:auto;
   display: block;
   margin: auto;
 }
+
 
 .zipper-text {
   padding: 2rem;
